@@ -25,27 +25,10 @@
 
 <br>
 
-```python
-#!/usr/bin/python3
-
-class Programmer:
-    def __init__(self):
-        self.name = "Diya"
-        self.age = 16
-        self.location = "Dublin, California"
-        self.langs = ["Python", "C++", "Javascript"]
-
-    def __str__(self):
-        return f"""Hello there! I am {self.name}. I'm {self.age}, and I live in {self.location}. 
-Some languages I know are: {self.langs}."""
-          
-
-diya = Programmer()
-print(diya)
-
-```
+I'm currently a second-year student at the University of California, Santa Barbara, majoring in Data Science and Applied Mathematics. I like to attend hackathons and work on other projects in my free time! Thanks for checking me out.
 
 
+Find me on <a href="https://www.linkedin.com/in/diya-vij-916a30167">LinkedIn</a>.
 ### Stats
 
 [![Diya's github stats](https://github-readme-stats.vercel.app/api?username=diyavij&show_icons=true&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
